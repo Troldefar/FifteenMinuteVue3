@@ -1,0 +1,36 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "post one title",
+            "body": "post one body",
+            "tags": [
+                "web dev",
+                "coding",
+                "news"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "post two title",
+            "body": "post two body",
+            "tags": [
+                "web dev",
+                "coding",
+                "fake news",
+                "tv2 new homie"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "post three title",
+            "body": "post three body",
+            "tags": [
+                "talle dev",
+                "coding noob",
+                "fake news noob",
+                "tv2 new homie"
+            ]
+        }
+    ]
+}
